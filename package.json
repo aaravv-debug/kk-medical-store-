@@ -2,8 +2,8 @@
   "name": "kk-medical-store",
   "version": "1.0.0",
   "description": "K.K. Medical Store & Multi-Services Hub official web application",
-  "main": "server.js",
   "scripts": {
+    "build": "echo 'Static site ready'",
     "start": "node server.js",
     "dev": "node server.js"
   },
